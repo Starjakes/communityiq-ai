@@ -1,120 +1,191 @@
-# React + Vite + shadcn/ui Starter Template
+# 🌍 CommunityIQ AI
+![3MTT](https://img.shields.io/badge/3MTT-Knowledge%20Showcase-green)
 
-A modern React starter template built with Vite, TypeScript, Tailwind CSS, and shadcn/ui components.
+![Dala Studio](https://img.shields.io/badge/Built%20with-Dala%20Studio-blue)
 
-## 🚀 Features
+![React](https://img.shields.io/badge/React-19-61DAFB)
 
-- ⚡️ **Vite** - Fast build tool and development server
-- ⚛️ **React 18** - Latest React with hooks support
-- 🎯 **TypeScript** - Type safety and better developer experience
-- 🎨 **Tailwind CSS** - Utility-first CSS framework
-- 🧩 **shadcn/ui** - Beautifully designed components built with Radix UI
-- 📦 **Path Mapping** - Clean imports with `@/` prefix
+![TypeScript](https://img.shields.io/badge/TypeScript-5-3178C6)
 
-## 📦 Included shadcn/ui Components
+![MIT License](https://img.shields.io/badge/License-MIT-yellow)
 
-- Button
-- Card
-- Input
-- Label
-- Badge
-- Dialog
-- And more...
+### Empowering African Communities with Intelligent Health and Education Support
 
-## 🛠️ Getting Started
+CommunityIQ AI is an AI-powered HealthTech and EdTech platform designed to improve access to trusted health education and personalized learning for underserved African communities.
 
-1. **Install dependencies**
-
-   ```bash
-   npm install
-   ```
-
-2. **Start development server**
-
-   ```bash
-   npm run dev
-   ```
-
-3. **Build for production**
-
-   ```bash
-   npm run build
-   ```
-
-4. **Preview production build**
-   ```bash
-   npm run preview
-   ```
-
-## 📁 Project Structure
-
-```
-src/
-├── components/
-│   └── ui/              # shadcn/ui components
-├── lib/
-│   └── utils.ts         # Utility functions
-├── App.tsx              # Main application component
-├── index.css            # Global styles with Tailwind
-└── main.tsx             # Application entry point
-```
-
-## 🎨 Customization
-
-### Adding New shadcn/ui Components
-
-This template is pre-configured with shadcn/ui. You can add more components by creating them in the `src/components/ui/` directory.
-
-### Tailwind Configuration
-
-The Tailwind configuration is set up with shadcn/ui color variables. You can customize colors and other design tokens in:
-
-- `tailwind.config.js` - Tailwind configuration
-- `src/index.css` - CSS custom properties for themes
-
-### TypeScript Configuration
-
-Path mapping is configured for clean imports:
-
-```typescript
-import { Button } from "@/components/ui/button";
-import { cn } from "@/lib/utils";
-```
-
-## 🌗 Dark Mode
-
-The template includes dark mode support through Tailwind's `dark:` classes and CSS custom properties.
-
-## 📚 Learn More
-
-- [Vite Documentation](https://vitejs.dev/)
-- [React Documentation](https://react.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [shadcn/ui](https://ui.shadcn.com/)
-- [Radix UI](https://www.radix-ui.com/)
-
-## 🤝 Contributing
-
-Feel free to submit issues and enhancement requests!
-
-**⚡ Powered by [Dala](https://dala.gebeya.com)** - The AI-powered web development platform that helps you build full-stack applications faster.
+Built as a **3MTT Fellows Knowledge Showcase** project using **Dala Studio**, the platform demonstrates how responsible Artificial Intelligence can bridge gaps in healthcare awareness and education through an accessible, mobile-first experience.
 
 ---
 
-## 🤖 What is Dala?
+## 🚀 Project Overview
 
-**[Gebeya Dala](https://dala.gebeya.com)** is an intelligent web development platform that accelerates your React development workflow. Build, preview, and deploy web applications, and instant development environments.
+Millions of people across Africa face challenges accessing reliable health information and quality educational support. CommunityIQ AI addresses this challenge by providing an intelligent assistant that offers:
 
-🔗 **Try Dala:** [dala.gebeya.com](https://dala.gebeya.com)
+- 🩺 AI-powered Health Guidance
+- 📚 Personalized Learning Assistant
+- 📝 AI-generated Practice Quizzes
+- 🌍 Community Educational Resources
+- 📱 Mobile-first user experience
 
-### Why Use Dala?
-
-- **AI-Powered Development** - Get intelligent code suggestions and automated component generation
-- **Instant Preview** - See your changes live in real-time sandbox environments
-- **Zero Setup** - No local environment configuration needed
-- **Collaborative** - Build and share projects with your team
-- **Deployment Ready** - One-click deployment to production
+The platform promotes **responsible AI**, providing educational guidance while encouraging users to seek qualified healthcare professionals when necessary.
 
 ---
 
-Built with ❤️ by the Dala team to help developers build faster and smarter.
+# ✨ Key Features
+
+## 🩺 AI Health Guidance
+
+- Structured health education
+- Symptom-based educational guidance
+- Wellness recommendations
+- Warning signs awareness
+- Responsible AI disclaimer
+
+---
+
+## 📚 Learning Assistant
+
+- AI-powered tutoring
+- Topic explanations
+- Practice quizzes
+- Learning summaries
+- Study recommendations
+
+---
+
+## 🌍 Community Resources
+
+- Health awareness information
+- Educational resources
+- Digital literacy
+- Community-focused knowledge hub
+
+---
+
+## 📱 Mobile-First Design
+
+- Responsive interface
+- Clean user experience
+- Accessible design
+- Optimized for smartphones and desktops
+
+---
+
+# 🎯 Problem Statement
+
+Many underserved communities have limited access to reliable health education and personalized learning support. Existing solutions are often fragmented, expensive, or not designed for local realities.
+
+CommunityIQ AI bridges this gap by providing a single AI-powered platform that delivers trusted educational guidance and learning support in an intuitive and accessible way.
+
+---
+
+# 💡 Solution
+
+CommunityIQ AI combines responsible AI with modern web technologies to create an easy-to-use platform that helps users:
+
+- Learn about common health concerns
+- Access educational support
+- Improve digital literacy
+- Make informed decisions
+- Discover community resources
+
+---
+
+# 🛠️ Built With
+
+- Dala Studio
+- React
+- Vite
+- TypeScript
+- Tailwind CSS
+- shadcn/ui
+- AI-powered workflows
+
+---
+
+# 📸 Screenshots
+
+> Screenshots coming soon.
+
+Suggested screenshots:
+
+- Landing Page
+- Health Guidance
+- Learning Assistant
+- Community Resources
+- Mobile View
+
+---
+
+# 🌐 Live Demo
+
+Coming Soon
+
+---
+
+# 🎥 Demo Video
+
+Coming Soon
+
+---
+
+# ⚠️ Responsible AI
+
+CommunityIQ AI provides educational information only.
+
+The platform **does not**:
+
+- Diagnose medical conditions
+- Prescribe medications
+- Recommend drug dosages
+- Replace qualified healthcare professionals
+
+Users are encouraged to seek professional medical advice whenever appropriate.
+
+---
+
+# 🎯 Future Roadmap
+
+- 🌍 Multilingual Support
+- 🗣️ Voice Interaction
+- 📶 Offline Access
+- 🏥 Healthcare Facility Integration
+- 🏫 School Learning Modules
+- 📊 Community Insights Dashboard
+
+---
+
+# 🤝 Contributing
+
+Contributions, suggestions, and feedback are welcome.
+
+Please open an issue or submit a pull request.
+
+---
+
+# 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to:
+
+- **3MTT (Three Million Technical Talent Programme)**
+- **Federal Ministry of Communications, Innovation & Digital Economy**
+- **Dala Studio**
+- The open-source community
+
+---
+
+## 👨‍💻 Author
+
+**Jacob Ameh**
+
+3MTT Fellow
+
+Project: **CommunityIQ AI**
+
+*"Empowering African Communities with Intelligent Health and Education Support."*
